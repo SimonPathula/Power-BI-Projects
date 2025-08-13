@@ -20,12 +20,14 @@ This dashboard was developed to address a prevalent issue for **job seekers, job
 # Dashboard Overview
 
 ## Page 1: High-Level Market View
-![Page 1](/Project1_Dashboard_Page1.gif)
+![Page 1](Data-Jobs-Dashboard/Project1_Dashboard_Page1.gif)
+
 
 Your mission control in the data job market is this.  To provide you with a rapid overview of the state of the job market, it highlights important KPIs such as the total number of jobs, median incomes, and top job titles.
 
 ## Page 2: Job Title Drill Through
-![Page 2](/Project1_Dashboard_Page2.gif)
+![Page 2](Data-Jobs-Dashboard/Project1_Dashboard_Page2.gif)
+
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
