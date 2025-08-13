@@ -30,4 +30,4 @@ Your mission control in the data job market is this.  To provide you with a rapi
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
 ## Conclusion
-This dashboard demonstrates how raw data from job postings can be transformed into a potent career analysis tool using Power BI.  In order to make well-informed judgments regarding their career routes, individuals can delve through, slice, and filter data.
+This dashboard demonstrates how the raw data from job postings can be transformed into a potent career analysis tool using Power BI.  In order to make well-informed judgments regarding their career routes, individuals can delve through, slice, and filter data.
